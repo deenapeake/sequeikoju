@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chuovoobu.cowatch.video/sitemap.xml
